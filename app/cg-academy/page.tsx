@@ -270,11 +270,11 @@ export default function CGAcademyPage() {
           <div className="space-y-6">
             <div className="flex items-center gap-4">
               <i className="fas fa-building text-gold text-xl w-8"></i>
-              <span className="text-gold font-medium">Entreprise • MY CG</span>
+              <span className="text-gold font-medium">Entreprise • MY TG</span>
             </div>
             <div className="flex items-center gap-4">
               <i className="fas fa-envelope text-gold text-xl w-8"></i>
-              <span className="text-gold font-medium">academy@california-gym.com</span>
+              <span className="text-gold font-medium">academy@titanium-gym.com</span>
             </div>
             <div className="flex items-center gap-4">
               <i className="fas fa-phone-alt text-gold text-xl w-8"></i>
