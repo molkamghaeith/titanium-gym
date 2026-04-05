@@ -78,7 +78,7 @@ export default function HomePage() {
         
         <ContactInfo />
         
-        {/* SECTION FAQ AJOUTÉE POUR LE SEO */}
+       
         {/* SECTION FAQ AVEC COULEURS */}
 <section className="py-12 mt-8 border-t border-gold-dim/30">
   <h2 className="text-2xl md:text-3xl font-semibold text-white mb-3 text-center md:text-left">
