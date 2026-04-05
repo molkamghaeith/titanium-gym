@@ -105,7 +105,7 @@ export default function Hero() {
             <Link href="/offres?pass=blue" className="bg-gold-min text-gold px-6 py-2 rounded-full text-blue-400 uppercase tracking-wider border border-gold-dim hover:bg-gold-soft hover:border-gold transition-all hover:-translate-y-1">
               BLUE PASS
             </Link>
-            <Link href="/offres?pass=yellow" className="bg-gold-min text-gold px-6 py-2 rounded-full text-xs uppercase tracking-wider border border-gold-dim hover:bg-gold-soft hover:border-gold transition-all hover:-translate-y-1">
+            <Link href="/offres?pass=yellow" className="bg-gold-min text-gold px-6 py-2 rounded-full text-yellow-400 uppercase tracking-wider border border-gold-dim hover:bg-gold-soft hover:border-gold transition-all hover:-translate-y-1">
               YELLOW PASS
             </Link>
           </div>
