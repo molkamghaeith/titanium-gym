@@ -7,7 +7,7 @@ import Breadcrumb from '@/components/ui/Breadcrumb'
 
 // ✅ MÉTADONNÉES SEO AJOUTÉES
 export const metadata = {
-  title: 'Titanium Gym Sousse | La plus grande salle de sport 2500m² avec Sauna',
+  title: '',
   keywords: 'Titanium Gym, salle de sport Sousse, musculation Sousse, cours collectifs Sousse, Bodypump Sousse, salle de sport Tunisie, BLUE PASS, YELLOW PASS',
   openGraph: {
     title: 'Titanium Gym Sousse | Salle de sport haut de gamme',
