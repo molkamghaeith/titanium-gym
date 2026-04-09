@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ['latin'], weight: ['300', '400', '500', '600', '
 
 export const metadata: Metadata = {
   title: 'Titanium Gym - The land of fitness',
-  description: 'Salle de sport à Sousse - Musculation, cardio, cours collectifs, sauna, vaporium',
 }
 
 export default function RootLayout({
