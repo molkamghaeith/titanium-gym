@@ -12,7 +12,6 @@ export const metadata = {
   keywords: 'Titanium Gym, salle de sport Sousse, musculation Sousse, cours collectifs Sousse, Bodypump Sousse, salle de sport Tunisie, BLUE PASS, YELLOW PASS',
   openGraph: {
     title: 'Titanium Gym Sousse | Salle de sport haut de gamme',
-    description: 'Rejoignez la plus grande salle de sport à Sousse : 2500m², équipements dernier cri, sauna inclus. Formules sans engagement.',
     siteName: 'Titanium Gym',
     locale: 'fr_TN',
     type: 'website',
