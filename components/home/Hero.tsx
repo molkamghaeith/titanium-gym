@@ -60,9 +60,9 @@ export default function Hero() {
           className="space-y-6"
         >
           {/* H1 principal - important pour SEO */}
-          <h1 className="text-4xl sm:text-5xl font-semibold text-white leading-tight">
+          {/*<h1 className="text-4xl sm:text-5xl font-semibold text-white leading-tight">
             TITANIUM GYM
-          </h1>
+          </h1>*/}
 
           {/* Paragraphe SEO ajouté - texte riche en mots-clés */}
           <div className="bg-gold-min/10 p-5 rounded-xl border border-gold-dim/30">
