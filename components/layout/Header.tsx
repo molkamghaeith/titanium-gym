@@ -12,8 +12,8 @@ export default function Header() {
     { name: 'ACTIVITÉS', path: '/activites' },
     { name: 'OFFRES', path: '/offres' },
     { name: 'PLANNING', path: '/planning' },
-    { name: 'TG STRENGTH', path: '/cg-strength' },
-    { name: 'TG ACADEMY', path: '/cg-academy' },
+    { name: 'TG STRENGTH', path: '/tg-strength' },
+    { name: 'TG ACADEMY', path: '/tg-academy' },
   ]
 
   return (
