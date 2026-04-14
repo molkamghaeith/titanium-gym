@@ -122,7 +122,6 @@ export default function Hero() {
             >
               <Image
                 src={slide.image}
-                alt={slide.title}
                 fill
                 className="object-cover"
                 priority={index === 0}
