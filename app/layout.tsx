@@ -51,3 +51,6 @@ export default function RootLayout({
     </html>
   )
 }
+
+// SEOmind
+useEffect(() => { document.title = "Titanium Gym Xi | Salle de sport moderne en Tunisie"; }, []);
