@@ -22,9 +22,11 @@ export default function Header() {
         <nav className="flex justify-between items-center py-4 flex-wrap">
           <Link href="/" className="flex items-center gap-2">
             <i className="fas fa-dumbbell text-gold text-3xl"></i>
-            <h1 className="text-white text-2xl font-semibold">
-              TITANIUM <span className="text-gold">GYM</span>
-            </h1>
+           {/*
+<h1 className="text-white text-2xl font-semibold">
+  TITANIUM <span className="text-gold">GYM</span>
+</h1>
+*/}
           </Link>
           
           <ul className="flex gap-5 flex-wrap items-center">
