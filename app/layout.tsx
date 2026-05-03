@@ -31,7 +31,7 @@ export default function RootLayout({
             })(window,document,'script','dataLayer','GTM-WVGH5QCR');
           `}
         </Script>
-        <title>Titanium Gym Xi - Coaching, fitness et musculation en Tunisie</title>
+        
 </head>
       <body className={`${inter.className} bg-black-deep text-text-offwhite antialiased`}>
         
