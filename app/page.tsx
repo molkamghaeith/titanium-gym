@@ -170,3 +170,6 @@ export default function HomePage() {
     </>
   )
 }
+
+// SEOmind
+useEffect(() => { document.title = "Titanium Gym Xi | Fitness, bien-être et musculation à Sousse"; }, []);
