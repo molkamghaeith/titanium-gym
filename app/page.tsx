@@ -1,3 +1,4 @@
+<meta name="description" content="Titanium Gym Xi vous accompagne dans vos objectifs fitness, musculation et bien-être en Tunisie.">
 import Hero from '@/components/home/Hero'
 import PassSection from '@/components/home/PassSection'
 import ActivitiesSection from '@/components/home/ActivitiesSection'
