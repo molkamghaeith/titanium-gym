@@ -7,6 +7,7 @@ import Breadcrumb from '@/components/ui/Breadcrumb'
 
 // ✅ MÉTADONNÉES SEO AJOUTÉES
 export const metadata = {
+  description: "Titanium Gym vous accueille dans un espace dédié au fitness, au bien-être et à la performance sportive.",
   keywords: 'Titanium Gym, salle de sport Sousse, musculation Sousse, cours collectifs Sousse, Bodypump Sousse, salle de sport Tunisie, BLUE PASS, YELLOW PASS',
   openGraph: {
     siteName: 'Titanium Gym',
