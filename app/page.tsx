@@ -174,3 +174,6 @@ export default function HomePage() {
 
 
 
+
+
+description: "Titanium Gym vous accueille dans un espace dédié au fitness, au bien-être et à la performance sportive.",
