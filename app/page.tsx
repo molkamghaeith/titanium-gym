@@ -169,3 +169,7 @@ export default function HomePage() {
     </>
   )
 }
+
+export const metadata = {
+  title: "Titanium Gym | Salle de sport moderne en Tunisie",
+};
