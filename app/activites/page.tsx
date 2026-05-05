@@ -33,7 +33,7 @@ export default function ActivitesPage() {
                 <div className="h-[250px] relative overflow-hidden">
                   <Image 
                     src={act.image} 
-                    alt={act.title || ""}
+                    alt={""}
                     fill
                     className="object-cover hover:scale-105 transition-transform"
                   />
