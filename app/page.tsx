@@ -9,7 +9,6 @@ import Breadcrumb from '@/components/ui/Breadcrumb'
 export const metadata = {
   keywords: 'Titanium Gym, salle de sport Sousse, musculation Sousse, cours collectifs Sousse, Bodypump Sousse, salle de sport Tunisie, BLUE PASS, YELLOW PASS',
   openGraph: {
-    title: 'Titanium Gym Sousse | Salle de sport haut de gamme',
     siteName: 'Titanium Gym',
     locale: 'fr_TN',
     type: 'website',
