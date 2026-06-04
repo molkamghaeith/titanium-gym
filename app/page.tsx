@@ -21,6 +21,7 @@ export const metadata = {
 export default function HomePage() {
   return (
     <>
+      <h1>Titanium Gym – Votre salle de sport premium en Tunisie</h1>
       
       {/* Données structurées JSON-LD pour le référencement local */}
       <script
